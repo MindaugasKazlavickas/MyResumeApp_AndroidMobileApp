@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ManoResume</string>
+    <string name="change_locale_description">Keisti kalba</string>
+    <string name="profile_name">Mindaugas Kazlavickas</string>
+    <string name="phone_number">+370 607 04358</string>
+    <string name="email_address">mindaugaskazlavickas@gmail.com</string>
+    <string name="group_label">Grupe:</string>
+    <string name="group_number">MKDf 21/2</string>
+    <string name="view_portfolio">Ziureti Portfolio</string>
+    <string name="contact_me">Susisiekti</string>
+    <string name="phone_label">Telefonas</string>
+    <string name="email_label">El. Pastas</string>
+    <string name="back">Grizti</string>
+    <string name="edit">Keisti</string>
+    <string name="placeholder">Laikinas tekstas: Iveskite savo CV detales cia</string>
+    <string name="save">Issaugoti</string>
+    <string name="add">Prideti</string>
+    <string name="type">Tipas</string>
+    <string name="duration">Laikotarpis</string>
+    <string name="remove">Salinti</string>
+    <string name="addNew">Prideti Nauja</string>
+    <string name="workExperience">Darbo Patirtis</string>
+    <string name="studies">Studijos</string>
+    <string name="startDate">Pradzios Data</string>
+    <string name="endDate">Pabaigos Data</string>
+    <string name="enterDescription">Iveskite Aprasyma</string>
+    <string name="cancel">Atsaukti</string>
+    <string name="addEntry">Prideti Irasa</string>
+    <string name="name_label">Jusu vardas</string>
+    <string name="name_placeholder">Iveskite savo varda</string>
+    <string name="email_placeholder">Iveskite savo El. pasta</string>
+    <string name="comment_label">Jusu komentaras</string>
+    <string name="comment_placeholder">Palikite savo komentara cia</string>
+    <string name="error">Visi laukeliai turi buti uzpildyti</string>
+    <string name="qr_code">Sis QR kodas leis atsisiusti sia aplikacija</string>
+    <string name="download">Atsisiusti aplikacija</string>
+</resources>

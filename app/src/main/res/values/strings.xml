@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="change_locale_description">Change Locale</string>
+    <string name="profile_name">Mindaugas Kazlavickas</string>
+    <string name="phone_label">Phone:</string>
+    <string name="phone_number">+370 607 04358</string>
+    <string name="email_label">Email:</string>
+    <string name="email_address">mindaugaskazlavickas@gmail.com</string>
+    <string name="group_label">Group:</string>
+    <string name="group_number">MKDf 21/2</string>
+    <string name="view_portfolio">View Portfolio</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="back"> back </string>
+    <string name="edit">Edit</string>
+    <string name="placeholder">Placeholder: Enter your CV details here</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="type">Type</string>
+    <string name="duration">Duration</string>
+    <string name="remove">Remove</string>
+    <string name="addNew">Add New</string>
+    <string name="workExperience">Work Experience</string>
+    <string name="studies">Studies</string>
+    <string name="startDate">Start Date</string>
+    <string name="endDate">End Date</string>
+    <string name="enterDescription">Enter Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="addEntry">Add Entry</string>
+    <string name="name_label">Your Name</string>
+    <string name="name_placeholder">Enter your name here</string>
+    <string name="email_placeholder">Enter your email here</string>
+    <string name="comment_label">Your Name</string>
+    <string name="comment_placeholder">Leave your comment here</string>
+    <string name="error">All fields have to be filled out</string>
+    <string name="qr_code">This is a QR code that will lead you to the app download</string>
+    <string name="download">Download App</string>
+</resources>
